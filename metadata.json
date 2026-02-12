@@ -1,0 +1,5 @@
+{
+  "name": "Mood Prediction Model",
+  "description": "A comprehensive therapist dashboard providing predictive analytics on patient mood patterns, crisis risk assessment, and explainable AI insights for proactive mental health intervention.",
+  "requestFramePermissions": []
+}
